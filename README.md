@@ -16,6 +16,7 @@
   <br>
   <img src="https://img.shields.io/badge/Three.js-9FEF00?style=for-the-badge&logo=Three.js&logoColor=000000">
     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=ffffff">
+     <img src="https://img.shields.io/badge/Cannon.js-A5915F?style=for-the-badge&logo=Stomp & Sock.Js&logoColor=white">
     <br>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
     <img src="https://img.shields.io/badge/Recoil-2E77BC?style=for-the-badge&logo=Recoil&logoColor=white">
